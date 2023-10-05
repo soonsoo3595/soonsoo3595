@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 </a>
 
 ------------------------------
-1999.06.26 Busan
-2015 ~ 2017 Uljin High School
-2018 ~      Konkuk University Smart ICT Convergence Engineering Department 2nd
-2023 ~      Bridge Programming 11th
-------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonsoo3595&show_icons=true&theme=radical)
 
