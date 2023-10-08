@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[Schedule](https://github.com/soonsoo3595/Daily_Archive/blob/main/Plan/23.10.md, "Schedule")
+[Schedule](https://github.com/soonsoo3595/Daily_Archive/blob/main/Plan/23.10.md "Schedule")
 ------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonsoo3595&show_icons=true&theme=radical)
