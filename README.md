@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/hi_hhoon">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hi_hhoon/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 [Schedule](https://soonsoo3595.notion.site/soonsoo3595/12cf4cd391ee4f5da06905f8310d912f)
 ------------------------------
 
